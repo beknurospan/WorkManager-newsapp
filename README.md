@@ -1,1 +1,1 @@
-d
+SIMPLE NEWS APP
